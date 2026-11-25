@@ -59,8 +59,10 @@ plt.plot(x,ypred,color='Blue')
 plt.show()
 
 ## Output
-<img width="681" height="572" alt="Screenshot 2026-11-24 095858" src="https://github.com/user-attachments/assets/8ad297c9-01ee-4081-a04d-bba9f3ad503f" />
-<img width="682" height="520" alt="Screenshot 2026-11-24 095908" src="https://github.com/user-attachments/assets/3b7af465-98f5-4571-a7eb-97cfc1845c6c" />
+<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/992e9007-0f0e-47dd-9d0a-5ad44fa45674" />
+<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/a661a6db-3001-44e9-89b8-e45542f37835" />
+<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/7fdd4594-ab4b-49ec-842a-c821a15a57f1" />
+
 
 
 ## Result
